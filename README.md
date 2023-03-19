@@ -1,9 +1,12 @@
 
 # Leaf's MobAPI
 
-Leaf's MobAPI is a plugin that easily creates mobs, with this plugin you can easily create any mob with custom stats.
+Leaf's MobAPI is a plugin that easily creates mobs, with this plugin you can easily create any mob with custom stats.\
+I will be keeping the Source Code private till I feel that I have finished this project. If you have any suggestions join the discord below and feel free to tell me! :D
 
+## Discord
 
+[Join](https://discord.gg/nSgwGbMN)
 
 
 ## Dependencies
