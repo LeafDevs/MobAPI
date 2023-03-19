@@ -10,6 +10,7 @@ Leaf's MobAPI is a plugin that easily creates mobs, with this plugin you can eas
 
  - [Sentinel](https://www.spigotmc.org/resources/sentinel.22017/)
  - [Citizens](https://ci.citizensnpcs.co/job/citizens2/)
+ - [NBT API](https://www.spigotmc.org/resources/nbt-api.7939/)
 
 
 ## Authors
